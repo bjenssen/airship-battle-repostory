@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Bramj/Documents/roll a ball/Assets/_scenes/minigame.unity
+  isLoaded: 1
+  isActive: 1
