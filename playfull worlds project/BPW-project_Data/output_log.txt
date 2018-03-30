@@ -1,0 +1,198 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 5100 (ID=0xa2e)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4835
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bramj\Documents\playfull worlds project\BPW-project_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'rock1 (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 7.637903 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a6c -> priority: 1 
+  Thread -> id: 28ac -> priority: 1 
+The referenced script on this Behaviour (Game Object 'rock1 (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 62.437080 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1499.
+Total: 6.265133 ms (FindLiveObjects: 0.553384 ms CreateObjectMapping: 0.446898 ms MarkObjects: 5.068129 ms  DeleteObjects: 0.192872 ms)
+
+The referenced script on this Behaviour (Game Object 'rock1 (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'rock1 (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.170158 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1544.
+Total: 7.174754 ms (FindLiveObjects: 0.786883 ms CreateObjectMapping: 0.569635 ms MarkObjects: 5.722440 ms  DeleteObjects: 0.088952 ms)
+
